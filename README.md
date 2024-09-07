@@ -1,5 +1,5 @@
 # Play-Fetch-Project
- Challenge 1 - Plane Programming GameUp Africa 2024
+ Challenge 2 - Play Fetch ... Programming GameUp Africa 2024
 
   Simple game that uses random number generation skills where balls are randomly falling from the sky and send your dog out to catch them before they hit the ground.
 

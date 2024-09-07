@@ -21,7 +21,9 @@ public class DestroyOutOfBoundsX : MonoBehaviour
         else if (transform.position.y < bottomLimit)
         {
             //Debug.Log("GONE BEYOND BOTTOM LIMIT");
+            Debug.Log("Game Over!");
             Destroy(gameObject);
+
             
         }
 
